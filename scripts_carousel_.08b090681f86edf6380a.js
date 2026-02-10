@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".reviews-list.owl-carousel").owlCarousel({items:1,loop:!0,autoplay:!0,autoplayTimeout:8e3,autoplayHoverPause:!0,dots:!0,nav:!1})}));
