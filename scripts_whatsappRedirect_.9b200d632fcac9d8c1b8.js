@@ -1,0 +1,1 @@
+window.openWhatsApp=function(n){whatsappNumber,encodeURIComponent(n);var e="/sent-contact?message="+encodeURIComponent(n);document.location.href=e};
